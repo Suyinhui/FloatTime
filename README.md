@@ -49,10 +49,7 @@
 
 ## 📸 效果预览
 
-![1](https://github.com/user-attachments/assets/8ac2a8e5-6804-487e-ad74-b0ee8f1ac11a)
-![2](https://github.com/user-attachments/assets/81b44fce-bb27-4323-8842-c27b4746a5a5)
-![3](https://github.com/user-attachments/assets/706957f0-a08c-4cb7-8d4a-41dbc6d360f3)
-![4](https://github.com/user-attachments/assets/ffffd530-28e5-4809-8085-d76d9ad9d8a8)
+![1](https://github.com/Suyinhui/FloatTime/blob/main/%E6%95%88%E6%9E%9C%E9%A2%84%E8%A7%88.gif)
 
 
 *（运行后效果：桌面显示一个深色半透明的时间小窗）*
